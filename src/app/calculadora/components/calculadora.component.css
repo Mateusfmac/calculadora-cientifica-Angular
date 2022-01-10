@@ -1,0 +1,33 @@
+.kz-btn {
+  width: 90%;
+  margin: 0.5rem;
+  margin-top: 1rem;
+  color: black;
+  font-weight: 700;
+  font-size: 16px;
+  box-shadow: 5px 5px 5px lightslategray;
+}
+
+.kz-input-text {
+  margin-top: 1rem;
+  width: 95%;
+  margin-left: 1rem;
+  margin-right: 2rem;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.kz-pad-20 {
+  padding: 2rem;
+  background: cadetblue;
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+  box-shadow: 5px 5px 5px lightslategray;
+
+}
+
+.col-xs-3,
+.col-xs-9 {
+  padding: 0rem;
+
+}
